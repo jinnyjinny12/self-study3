@@ -12,4 +12,16 @@
     - git commit -m "first commit"
     - git branch -M main
     - git remote add origin main url
+
+
+3) 내가 어떻게 했지?
+    - 새로운 레파지토리 생성  
+        - 레파지토리 : 내 vs code 와 깃허브의 연결고리?
+    - remote -v 로 나의 레파지토리가 잘 생성되어 있는지 확인
+    - 여기서 바로 git psuh -u origin main 했더니 에러뜸
+    - git commit -m "first commit" 
+    - 갑자기 커밋되면서 올라감. -> 레파지토리를 연결하고나서야 commit이 됨.
+    
+    - 
+
     
