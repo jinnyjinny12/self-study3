@@ -21,7 +21,14 @@
     - 여기서 바로 git psuh -u origin main 했더니 에러뜸
     - git commit -m "first commit" 
     - 갑자기 커밋되면서 올라감. -> 레파지토리를 연결하고나서야 commit이 됨.
-    
-    - 
+
+4) 로컬에서 수정하고 다시 올리고 싶어?
+    - 그러면 수정하고
+    - 저장하고
+    - git add .
+    - git status
+    - git commit -m "third commit"
+    - git push origin main
+
 
     
